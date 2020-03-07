@@ -2,6 +2,12 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# IBM Cloud Datacenters. https://www.ibm.com/cloud/data-centers/
+
+# IBM Cloud Status: https://cloud.ibm.com/status?selected=status
+
+# IBM Learning Hub: https://www.ibm.com/cloud/learn
+
 # Navigation: 
 
 ## Documentation:  https://cloud.ibm.com/docs       
@@ -18,7 +24,7 @@
 
 # Accounts:
 
-## [IBM Free Tier](https://www.ibm.com/cloud/free/)
+## IBM Free Tier account https://www.ibm.com/cloud/free/
 
 <a href="https://youtu.be/T3hcBnkJYLw">IBM Free Tier account</a>
 
