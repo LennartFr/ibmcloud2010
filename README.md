@@ -17,3 +17,7 @@ https://cloud.ibm.com/docs
 <img src="servers.png">
 
 <img src="servers1.png">
+
+# AI Services https://cloud.ibm.com/catalog?category=ai
+
+# AI Software  https://cloud.ibm.com/catalog?category=ai#software
