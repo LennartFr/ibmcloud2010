@@ -14,7 +14,7 @@
 
 ## Login: https://cloud.ibm.com/login
 
-##    Sign up
+## Sign up: https://cloud.ibm.com/registration
 
 # IBM Free tier
 
