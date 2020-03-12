@@ -32,7 +32,7 @@
 
 # IBM Cloud Foundry explained https://youtu.be/oUpqXxmr6oU
 
-# Servers
+# Spinning up servers in the IBM Cloud
 
 ## IBM Cloud Bare Metal Servers https://www.ibm.com/cloud/bare-metal-servers
 ###  GPUs for cloud servers https://www.ibm.com/cloud/gpu
