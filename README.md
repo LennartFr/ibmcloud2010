@@ -26,16 +26,19 @@
 
 ## IBM Free Tier account https://www.ibm.com/cloud/free/
 
+# IBM Cloud Foundry explained https://youtu.be/oUpqXxmr6oU
+
 <a href="https://youtu.be/T3hcBnkJYLw">IBM Free Tier account</a>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# IBM Cloud Foundry explained https://youtu.be/oUpqXxmr6oU
 
-# Spinning up servers in the IBM Cloud
+
+# Chapter 5: Spinning up servers in the IBM Cloud
 
 ## IBM Cloud Bare Metal Servers https://www.ibm.com/cloud/bare-metal-servers
-###  GPUs for cloud servers https://www.ibm.com/cloud/gpu
+
+###  GPUs for Cloud Servers https://www.ibm.com/cloud/gpu
 
 ### GPUs explained: https://youtu.be/LfdK-v0SbGI
 
@@ -49,6 +52,8 @@ Virtual servers, also called virtual machines, are scalable and come with dedica
 
 When you create an IBM Cloud Virtual Server, you can choose between hourly and monthly billing. You can also choose between a multitenancy environment (public and transient) or a single-tenancy (dedicated) environment. Then, you can choose either high-performance local disks or enterprise SAN storage for your virtual machine
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 
 <img src="servers.png">
 
@@ -61,6 +66,8 @@ When you create an IBM Cloud Virtual Server, you can choose between hourly and m
 # AI Software  https://cloud.ibm.com/catalog?category=ai#software
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
 
 # Documentation
 
