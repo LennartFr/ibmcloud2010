@@ -41,6 +41,15 @@
 
 You asked. We listened. We’ve lowered our bare metal prices and included up to 20 TB of bandwidth. Same power and flexibility. New competitive prices. Simple as that. Explore IBM GPU options below.
 
+## IBM Cloud Virtual Servers: https://www.ibm.com/cloud/virtual-servers
+
+### What are virtual servers?
+
+Virtual servers, also called virtual machines, are scalable and come with dedicated core and memory allocations. They’re a great option if you’re looking for compute resources that can be added in minutes, with access to features like image templates. The hypervisor is fully managed by the IBM Cloud™ and you can perform configuration and management tasks by using both the IBM Cloud client portal and the API. Virtual machines are deployed to the same VLANs as physical servers, enabling you to spread workloads across virtual servers and bare metal servers, while maintaining interoperability. Virtual servers are fully customizable when you order them, with options to scale as your compute needs grow.
+
+When you create an IBM Cloud Virtual Server, you can choose between hourly and monthly billing. You can also choose between a multitenancy environment (public and transient) or a single-tenancy (dedicated) environment. Then, you can choose either high-performance local disks or enterprise SAN storage for your virtual machine
+
+
 <img src="servers.png">
 
 <img src="servers1.png">
