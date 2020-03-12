@@ -35,7 +35,7 @@
 ## IBM Cloud Bare Metal Servers https://www.ibm.com/cloud/bare-metal-servers
 ###  GPUs for cloud servers https://www.ibm.com/cloud/gpu
 
-https://youtu.be/LfdK-v0SbGI
+### GPUs explained: https://youtu.be/LfdK-v0SbGI
 
 You asked. We listened. We’ve lowered our bare metal prices and included up to 20 TB of bandwidth. Same power and flexibility. New competitive prices. Simple as that. Explore IBM GPU options below.
 
