@@ -10,23 +10,23 @@ Let’s start by looking at what benefits IBM offers startups: https://developer
 
 To get into the “Builder” category you have to meet the following requirements:
 
-Your business revenue in the last 12 months is less than $1M USD
+1. Your business revenue in the last 12 months is less than $1M USD
 
-Your business has been in business for fewer than five years
+2. Your business has been in business for fewer than five years
 
-You have previously received no IBM technology credits
+3. You have previously received no IBM technology credits
 
-You are not a paying IBM Cloud customer
+4. You are not a paying IBM Cloud customer
 
-If you do meet those requirements you get the following benefits:
+5. If you do meet those requirements you get the following benefits:
 
--> $1,000/month in IBM Cloud credits for one year
+6. $1,000/month in IBM Cloud credits for one year
 
-This is not bad and will most probably meet the requirements for a two-person startup with a typical seed funding of $1.1.
+This is not bad and will most probably meet the requirements for a two-person startup with a typical seed funding of $1.1.million
 
 The startup would begin with using the IBM Free Lite account https://www.ibm.com/cloud/free/
 
-Which will allow the startup to work with IBM’s AI services, Analytic Services and Data base services , development tools and security.
+Which will allow the startup to work with IBM’s AI services, Analytic Services, Data base services, development tools and security.
 
 How much will the IBM Cloud Services add up to? Kunal Jasty has an interesting blog post on: How a 2 person startup already uses 28 other tools that gives a very good view in describing the costs for third-party tools outside of the Cloud Costs.
 https://blog.acrossapp.com/how-a-2-person-startup-already-uses-28-other-tools/
@@ -38,6 +38,7 @@ A two-person startup with seed funding of around $1.1 would start with the IBM C
 For cloud costs, we can look at the IBM Cloud Pricing list. And we must remember that as “Builders” we have $1,000/month in IBM Cloud credits for one year.
 
 Then if you can can get accepted by an approved VC/accelerator/incubator and you’re working with innovative technologies like blockchain, AI and etc. you can get accepted into the Premier category where the benefits are: $10,000/month in IBM Cloud credits for up to one year.
+
 And with that kind of money you can spin up pretty much what you want in the IBM Cloud.
 If the two-person startup selected the IBM Cloud, chances are that they will be interested in Watson AI services of which there are 19 discrete services.
 
