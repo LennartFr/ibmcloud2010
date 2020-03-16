@@ -6,7 +6,7 @@
 
 # Introduction: Benefits for startups in the IBM Cloud
 
-Let’s start by looking ay what benefits IBM offers startups: https://developer.ibm.com/startups/:
+Let’s start by looking at what benefits IBM offers startups: https://developer.ibm.com/startups/:
 
 To get into the “Builder” category you have to meet the following requirements:
 
