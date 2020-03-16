@@ -18,9 +18,9 @@ To get into the “Builder” category you have to meet the following requiremen
 
 4. You are not a paying IBM Cloud customer
 
-5. If you do meet those requirements you get the following benefits:
+If you do meet those requirements you get the following benefits:
 
-6. $1,000/month in IBM Cloud credits for one year
+$1,000/month in IBM Cloud credits for one year
 
 This is not bad and will most probably meet the requirements for a two-person startup with a typical seed funding of $1.1.million
 
