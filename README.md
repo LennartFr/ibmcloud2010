@@ -29,7 +29,15 @@ Which will allow the startup to work with IBM’s AI services, Analytic Services
 How much will the IBM Cloud Services add up to? Kunal Jasty has an interesting blog post on: How a 2 person startup already uses 28 other tools that gives a very good view in describing the costs for third-party tools outside of the Cloud Costs.
 https://blog.acrossapp.com/how-a-2-person-startup-already-uses-28-other-tools/
 
+IBM Light Account: https://youtu.be/T3hcBnkJYLw
 
+A two-person startup with seed funding of around $1.1 would start with the IBM Cloud Lite Account which is free. They would then upgrade to a Pay-As-You-Go account. Many IBM Cloud products have a free Trial for Pay-As-You-Go accounts.
+
+For cloud costs, we can look at the IBM Cloud Pricing list. And we must remember that as “Builders” we have $1,000/month in IBM Cloud credits for one year.
+
+Then if you can can get accepted by an approved VC/accelerator/incubator and you’re working with innovative technologies like blockchain, AI and etc. you can get accepted into the Premier category where the benefits are: $10,000/month in IBM Cloud credits for up to one year.
+And with that kind of money you can spin up pretty much what you want in the IBM Cloud.
+If the two-person startup selected the IBM Cloud, chances are that they will be interested in Watson AI services of which there are 19 discrete services.
 
 
 # IBM Cloud Datacenters. https://www.ibm.com/cloud/data-centers/
