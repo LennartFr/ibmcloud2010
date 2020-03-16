@@ -24,7 +24,7 @@ $1,000/month in IBM Cloud credits for one year
 
 This is not bad and will most probably meet the requirements for cloud computing resources for a two-person startup with a typical seed funding of $1.1.million
 
-The startup would begin with using the IBM Free Lite account https://www.ibm.com/cloud/free/
+The startup would begin by using the IBM Free Lite account https://www.ibm.com/cloud/free/
 
 Which will allow the startup to work with IBM’s AI services, Analytic Services, Data base services, development tools and security.
 
