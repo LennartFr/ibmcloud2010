@@ -2,6 +2,36 @@
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
+# Introduction: Benefits for startups in the IBM Cloud
+
+Let’s start by looking ay what benefits IBM offers startups: https://developer.ibm.com/startups/:
+
+To get into the “Builder” category you have to meet the following requirements:
+
+Your business revenue in the last 12 months is less than $1M USD
+
+Your business has been in business for fewer than five years
+
+You have previously received no IBM technology credits
+
+You are not a paying IBM Cloud customer
+
+If you do meet those requirements you get the following benefits:
+
+-> $1,000/month in IBM Cloud credits for one year
+
+This is not bad and will most probably meet the requirements for a two-person startup with a typical seed funding of $1.1.
+
+The startup would begin with using the IBM Free Lite account https://www.ibm.com/cloud/free/
+
+Which will allow the startup to work with IBM’s AI services, Analytic Services and Data base services , development tools and security.
+
+How much will the IBM Cloud Services add up to? Kunal Jasty has an interesting blog post on: How a 2 person startup already uses 28 other tools that gives a very good view in describing the costs for third-party tools outside of the Cloud Costs.
+https://blog.acrossapp.com/how-a-2-person-startup-already-uses-28-other-tools/
+
+
+
+
 # IBM Cloud Datacenters. https://www.ibm.com/cloud/data-centers/
 
 # IBM Cloud Status: https://cloud.ibm.com/status?selected=status
